@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80068491-7e23-48e9-afd1-a2204654ec96" name="Changes" comment="subtitle 2">
-      <change afterPath="$PROJECT_DIR$/products.md" afterDir="false" />
+    <list default="true" id="80068491-7e23-48e9-afd1-a2204654ec96" name="Changes" comment="added page product">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlexPogonii"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlexPogonii/text-git-example.git",
+    "accountId": "09b61452-22ae-4a96-b198-2d30aad1908c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -78,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758255748667</updated>
       <workItem from="1758255750207" duration="3954000" />
-      <workItem from="1758298975760" duration="12009000" />
+      <workItem from="1758298975760" duration="13847000" />
     </task>
     <task id="LOCAL-00001" summary=".git">
       <option name="closed" value="true" />
@@ -168,7 +179,31 @@
       <option name="project" value="LOCAL" />
       <updated>1758395251724</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added page product">
+      <option name="closed" value="true" />
+      <created>1758395646137</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758395646137</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added page product">
+      <option name="closed" value="true" />
+      <created>1758395660031</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1758395660031</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added page product">
+      <option name="closed" value="true" />
+      <created>1758395770356</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1758395770356</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +231,7 @@
     <MESSAGE value="adeed new zone" />
     <MESSAGE value="rework" />
     <MESSAGE value="line 10 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="line 10 added" />
+    <MESSAGE value="added page product" />
+    <option name="LAST_COMMIT_MESSAGE" value="added page product" />
   </component>
 </project>
