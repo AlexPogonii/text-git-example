@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80068491-7e23-48e9-afd1-a2204654ec96" name="Changes" comment="added page product">
+    <list default="true" id="80068491-7e23-48e9-afd1-a2204654ec96" name="Changes" comment="subtitle 2">
+      <change afterPath="$PROJECT_DIR$/products.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +92,7 @@
       <updated>1758255748667</updated>
       <workItem from="1758255750207" duration="3954000" />
       <workItem from="1758298975760" duration="13847000" />
+      <workItem from="1758298975760" duration="12009000" />
     </task>
     <task id="LOCAL-00001" summary=".git">
       <option name="closed" value="true" />
@@ -204,6 +207,7 @@
       <updated>1758395770356</updated>
     </task>
     <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,5 +237,6 @@
     <MESSAGE value="line 10 added" />
     <MESSAGE value="added page product" />
     <option name="LAST_COMMIT_MESSAGE" value="added page product" />
+    <option name="LAST_COMMIT_MESSAGE" value="line 10 added" />
   </component>
 </project>
